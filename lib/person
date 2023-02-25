@@ -13,3 +13,4 @@ adam = Person("Adam", 28, "adam@flatironschool.com")
 
 # A table in SQL to a class in Python
 # A row in SQL to an instance/object in Python
+# 
